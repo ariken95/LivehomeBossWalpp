@@ -1,0 +1,74 @@
+{
+  "Ads": [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "",
+      "admob_native": "",
+      "startappid": "",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "packagename": "fake.wavideo.call.kuntilanak.dan.sundul.bolong.offline",
+      "interval":20
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Prank Video Call Sama Pocong",
+      "image":"file:///android_asset/icon.png",
+      "link":"https://play.google.com/store/apps/details?id=prank.wavideo.call.dengan.pocong.offline"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Kuntilanak Satu",
+      "image_url":"file:///android_asset/sd1.webp",
+      "video_url":"kunti1",
+      "voice_url":"horo.mp3"
+    },
+    {
+      "id":2,
+      "name":"Sundul Bolong Satu",
+      "image_url":"file:///android_asset/sd2.webp",
+      "video_url":"kunti2",
+      "voice_url":"horo.mp3"
+    },
+    {
+      "id":3,
+      "name":"Kuntilanak Dua",
+      "image_url":"file:///android_asset/sd3.webp",
+      "video_url":"kunti3",
+      "voice_url":"horo.mp3"
+    },
+    {
+      "id":4,
+      "name":"Sundul Bolong Dua",
+      "image_url":"file:///android_asset/sd4.webp",
+      "video_url":"kunti4",
+      "voice_url":"horo.mp3"
+    },
+    {
+      "id":5,
+      "name":"Kuntilanak Tiga",
+      "image_url":"file:///android_asset/sd5.webp",
+      "video_url":"kunti5",
+      "voice_url":"horo.mp3"
+    },
+    {
+      "id":6,
+      "name":"Sundul Bolong Tiga",
+      "image_url":"file:///android_asset/sd6.webp",
+      "video_url":"kunti6",
+      "voice_url":"horo.mp3"
+    }
+  ]
+
+}
