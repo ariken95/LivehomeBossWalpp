@@ -3,8 +3,8 @@
       {
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
-      "admob_inter": "",
-      "admob_native": "",
+      "admob_inter": "ca-app-pub-9676953921795368/2198324055",
+      "admob_native": "ca-app-pub-9676953921795368/4632915706",
       "startappid": "",
       "select_ads": "ADMOB",
       "fan_inter": "YOUR_PLACEMENT_ID",
