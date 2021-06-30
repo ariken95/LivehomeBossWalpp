@@ -1,0 +1,91 @@
+{
+  "Ads": [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "",
+      "admob_native": "",
+      "startappid": "",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "packagename": "fake.wavideocall.dengan.uhkti.akhwat.hijaber.muslimah",
+      "interval":20
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Sandrinna dan Rey Bong",
+      "image":"file:///android_asset/reybongdansandrinna.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.call.video.jendela_smp.Sandrinna_Michelle.dan.Rey_Bong.wulan.joko"
+    },
+	{
+      "id":2,
+      "title":"Naisa Alifia",
+      "image":"file:///android_asset/naisaalifia.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.dengan.naisa.alifia.yuriza.nay.terbaru.offline"
+    },
+    {
+      "id":3,
+      "title":"RIA RICIS",
+      "image":"file:///android_asset/riaricis.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.dengan.ria.ricis.full.offline.terbaru"
+    },
+    {
+      "id":4,
+      "title":"Habib Al Assegaf",
+      "image":"file:///android_asset/habibalwi.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.wa.habib.alwi.assegaf.offline"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Akhwat 1",
+      "image_url":"file:///android_asset/akhwatdaukhtigambar1.webp",
+      "video_url":"akhwatdaukhtivideo1",
+      "voice_url":"akhwatdaukhtisuara.mp3"
+    },
+    {
+      "id":2,
+      "name":"Akhwat 2",
+      "image_url":"file:///android_asset/akhwatdaukhtigambar2.webp",
+      "video_url":"akhwatdaukhtivideo2",
+      "voice_url":"akhwatdaukhtisuara.mp3"
+    },
+    {
+      "id":3,
+      "name":"Akhwat 3",
+      "image_url":"file:///android_asset/akhwatdaukhtigambar3.webp",
+      "video_url":"akhwatdaukhtivideo3",
+      "voice_url":"akhwatdaukhtisuara.mp3"
+    },
+    {
+      "id":4,
+      "name":"Akhwat 4",
+      "image_url":"file:///android_asset/akhwatdaukhtigambar4.webp",
+      "video_url":"akhwatdaukhtivideo1",
+      "voice_url":"akhwatdaukhtisuara.mp3"
+    },
+	{
+      "id":5,
+      "name":"Akhwat 5",
+      "image_url":"file:///android_asset/akhwatdaukhtigambar5.webp",
+      "video_url":"akhwatdaukhtivideo2",
+      "voice_url":"akhwatdaukhtisuara.mp3"
+    },
+    {
+      "id":6,
+      "name":"Akhwat 6",
+      "image_url":"file:///android_asset/akhwatdaukhtigambar6.webp",
+      "video_url":"akhwatdaukhtivideo3",
+      "voice_url":"wakhwatdaukhtisuara.mp3"
+    }
+  ]
+
