@@ -3,8 +3,8 @@
       {
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
-      "admob_inter": "",
-      "admob_native": "",
+      "admob_inter": "ca-app-pub-9676953921795368/5178530987",
+      "admob_native": "ca-app-pub-9676953921795368/2552367649",
       "startappid": "",
       "select_ads": "ADMOB",
       "select_backup_ads":"FACEBOOK",
@@ -12,7 +12,7 @@
       "fan_banner_native": "YOUR_PLACEMENT_ID",
       "fan_native": "YOUR_PLACEMENT_ID",
       "packagename": "fake.video.call.ikatan.cinta.amanda.manopo.arya.saloka.andi.aldebaran",
-      "interval":20
+      "interval":2
       }
    ],
 
