@@ -1,0 +1,103 @@
+{
+  "Ads": [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "",
+      "admob_native": "",
+      "startappid": "",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "packagename": "fake.wavideo.call.panggilan.video.dengan.tante.sexy.hot",
+      "interval":20
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"ARYA SAlAKO",
+      "image":"file:///android_asset/aldebaran.png",
+      "link":"https://play.google.com/store/apps/details?id=prank.wavideocall.arya.saloka.aldebaran.offline"
+    },
+	{
+      "id":2,
+      "title":"Cewek Cantik",
+      "image":"file:///android_asset/prankistri.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.wavideo.call.prank.istri.video.call.sama.cewek.cantik"
+    },
+	{
+      "id":3,
+      "title":"AMANDA MANOPO",
+      "image":"file:///android_asset/manopo.png",
+      "link":"https://play.google.com/store/apps/details?id=prank.video.call.amanda.manopo.full.offline"
+    },
+    {
+      "id":4,
+      "title":"RIA RICIS",
+      "image":"file:///android_asset/riaricis.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.dengan.ria.ricis.full.offline.terbaru"
+    },
+    {
+      "id":5,
+      "title":"SULE",
+      "image":"file:///android_asset/sule.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.dengan.ferdinan.sule.terbaru.offline"
+    },
+    {
+      "id":6,
+      "title":"AYU TING TING",
+      "image":"file:///android_asset/ayu.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.call.wavideo.dengan.ayu.ting.ting.terbaru.offline"
+    },
+    {
+      "id":7,
+      "title":"Cewek Japan",
+      "image":"file:///android_asset/japnesegirl.png",
+      "link":"https://play.google.com/store/apps/details?id=fakevideocall.kawai.japanese.girl.fakewacall"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Tante Satu",
+      "image_url":"file:///android_asset/tantehotgambarvira1.webp",
+      "video_url":"tantecurhattahanlamadiranjangsuara1",
+      "voice_url":"tantecurhattahanlamadiranjangsuara.mp3"
+    },
+    {
+      "id":2,
+      "name":"Tante Dua",
+      "image_url":"file:///android_asset/tantehotgambarvira2.webp",
+      "video_url":"tantecurhattahanlamadiranjangsuara2",
+      "voice_url":"tantecurhattahanlamadiranjangsuara.mp3"
+    },
+    {
+      "id":3,
+      "name":"Tante Tiga",
+      "image_url":"file:///android_asset/tantehotgambarvira3.webp",
+      "video_url":"tantecurhattahanlamadiranjangsuara3",
+      "voice_url":"tantecurhattahanlamadiranjangsuara.mp3"
+    },
+    {
+      "id":4,
+      "name":"Tante Empat",
+      "image_url":"file:///android_asset/tantehotgambarvira4.webp",
+      "video_url":"jtantecurhattahanlamadiranjangsuara4",
+      "voice_url":"tantecurhattahanlamadiranjangsuara.mp3"
+    },
+	{
+      "id":5,
+      "name":"Tante 5",
+      "image_url":"file:///android_asset/tantehotgambarvira5.webp",
+      "video_url":"tantecurhattahanlamadiranjangsuara5",
+      "voice_url":"tantecurhattahanlamadiranjangsuara.mp3"
+    }
+  ]
+
+}
