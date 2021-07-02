@@ -3,8 +3,8 @@
       {
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
-      "admob_inter": "",
-      "admob_native": "",
+      "admob_inter": "ca-app-pub-9676953921795368/6878517669",
+      "admob_native": "ca-app-pub-9676953921795368/4060782635",
       "startappid": "",
       "select_ads": "ADMOB",
       "select_backup_ads":"FACEBOOK",
@@ -12,7 +12,7 @@
       "fan_banner_native": "YOUR_PLACEMENT_ID",
       "fan_native": "YOUR_PLACEMENT_ID",
       "packagename": "fake.call.video.jendela_smp.Sandrinna_Michelle.dan.Rey_Bong.wulan.joko",
-      "interval":20
+      "interval":4
       }
    ],
 
