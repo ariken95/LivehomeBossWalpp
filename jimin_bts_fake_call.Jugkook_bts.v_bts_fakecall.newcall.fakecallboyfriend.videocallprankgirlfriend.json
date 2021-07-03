@@ -1,0 +1,73 @@
+{
+  "Ads": [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "",
+      "admob_native": "",
+      "startappid": "",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "packagename": "jimin_bts_fake_call.Jugkook_bts.v_bts_fakecall.newcall.fakecallboyfriend.videocallprankgirlfriend",
+      "interval":20
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"BTS Call You",
+      "image":"file:///android_asset/BTS.png",
+      "link":"https://play.google.com/store/apps/details?id=wavideocall.bts.btscallyou.btsvideocalldynamiteforyou.btsfakevideocall.jimin.vbts.taeyoon.jungkook"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Boy Friend 1",
+      "image_url":"file:///android_asset/boyfriend1.png",
+      "video_url":"boyfriend1",
+      "voice_url":"boyfriend1.mp3"
+    },
+    {
+      "id":2,
+      "name":"Boy Friend 2",
+      "image_url":"file:///android_asset/boyfriend2.png",
+      "video_url":"boyfriend2",
+      "voice_url":"boyfriend2.mp3"
+    },
+    {
+      "id":3,
+      "name":"Boy Friend 3",
+      "image_url":"file:///android_asset/boyfriend3.png",
+      "video_url":"boyfriend3",
+      "voice_url":"boyfriend3.mp3"
+    },
+    {
+      "id":4,
+      "name":"Boy Friend 4",
+      "image_url":"file:///android_asset/boyfriend4.png",
+      "video_url":"boyfriend1",
+      "voice_url":"boyfriend1.mp3"
+    },
+    {
+      "id":5,
+      "name":"Boy Friend 5",
+      "image_url":"file:///android_asset/boyfriend5.png",
+      "video_url":"boyfriend2",
+      "voice_url":"boyfriend2.mp3"
+    },
+    {
+      "id":6,
+      "name":"Boy Friend 6",
+      "image_url":"file:///android_asset/boyfriend6.png",
+      "video_url":"boyfriend3",
+      "voice_url":"boyfriend3.mp3"
+    }
+
+}
