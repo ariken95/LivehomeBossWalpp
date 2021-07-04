@@ -3,9 +3,9 @@
       {
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
-      "admob_inter": "ca-app-pub-8074230319419198/4554857297",
-      "admob_native": "ca-app-pub-8074230319419198/1928693951",
-      "admob_inter_reward":"ca-app-pub-3940256099942544/5354046379",
+      "admob_inter": "ca-app-pub-9676953921795368/1449246958",
+      "admob_native": "ca-app-pub-9676953921795368/7823083616",
+      "admob_inter_reward":"ca-app-pub-9676953921795368/4393036692",
       "startappid": "",
       "select_ads": "ADMOB",
       "select_backup_ads":"FACEBOOK",
@@ -13,7 +13,7 @@
       "fan_banner_native": "YOUR_PLACEMENT_ID",
       "fan_native": "YOUR_PLACEMENT_ID",
       "packagename": "fake.video.call.wa.habib.alwi.assegaf.offline",
-      "interval":5
+      "interval":20
       }
    ],
 
