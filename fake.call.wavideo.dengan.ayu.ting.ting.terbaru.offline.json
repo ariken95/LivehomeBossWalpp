@@ -3,8 +3,9 @@
       {
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
-      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+      "admob_inter": "ca-app-pub-9676953921795368/4730016413x",
+      "admob_native": "ca-app-pub-9676953921795368/1804470172x",
+      "admob_inter_reward":"ca-app-pub-9676953921795368/4227184033x",
       "startappid": "",
       "select_ads": "ADMOB",
       "select_backup_ads":"FACEBOOK",
@@ -12,7 +13,7 @@
       "fan_banner_native": "YOUR_PLACEMENT_ID",
       "fan_native": "YOUR_PLACEMENT_ID",
       "packagename": "fake.call.wavideo.dengan.ayu.ting.ting.terbaru.offline",
-      "interval":2
+      "interval":20
       }
    ],
 
