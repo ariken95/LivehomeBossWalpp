@@ -3,16 +3,16 @@
       {
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
-      "admob_inter": "",
-      "admob_native": "",
-      "startappid": "",
+      "admob_inter": "ca-app-pub-9676953921795368/7131245637",
+      "admob_native": "ca-app-pub-9676953921795368/1878918951",
+      "startappid": "206516093",
       "select_ads": "ADMOB",
-      "select_backup_ads":"FACEBOOK",
+      "select_backup_ads":"STARTAPP",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner_native": "YOUR_PLACEMENT_ID",
       "fan_native": "YOUR_PLACEMENT_ID",
       "packagename": "fake.wavideocall.dengan.uhkti.akhwat.hijaber.muslimah",
-      "interval":20
+      "interval":2
       }
    ],
 
