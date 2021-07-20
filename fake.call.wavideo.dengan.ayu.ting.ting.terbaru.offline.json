@@ -8,7 +8,7 @@
       "admob_inter_reward":"ca-app-pub-9676953921795368/4227184033",
       "startappid": "206531283",
       "select_ads": "ADMOB",
-      "select_backup_ads":"FACEBOOK",
+      "select_backup_ads":"STARTAPP",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner_native": "YOUR_PLACEMENT_ID",
       "fan_native": "YOUR_PLACEMENT_ID",
