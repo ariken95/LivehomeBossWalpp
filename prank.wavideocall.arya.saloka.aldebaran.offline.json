@@ -5,14 +5,14 @@
       "link_redirect": "https://play.google.com/store/apps/details?id=",
       "admob_inter": "ca-app-pub-9676953921795368/3177305756",
       "admob_native": "ca-app-pub-9676953921795368/3608550591",
-      "startappid": "206031191",
+      "startappid": "",
       "select_ads": "ADMOB",
-      "select_backup_ads":"STARTAPP",
+      "select_backup_ads":"",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner_native": "YOUR_PLACEMENT_ID",
       "fan_native": "YOUR_PLACEMENT_ID",
       "packagename": "prank.wavideocall.arya.saloka.aldebaran.offline",
-      "interval":6
+      "interval":10
       }
    ],
 
