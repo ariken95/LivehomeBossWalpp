@@ -5,14 +5,14 @@
       "link_redirect": "https://play.google.com/store/apps/details?id=",
       "admob_inter": "ca-app-pub-9676953921795368/8487112803",
       "admob_native": "ca-app-pub-9676953921795368/3234786127",
-      "startappid": "206561850",
+      "startappid": "",
       "select_ads": "ADMOB",
       "select_backup_ads":"STARTAPP",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner_native": "YOUR_PLACEMENT_ID",
       "fan_native": "YOUR_PLACEMENT_ID",
       "packagename": "fake.wavideocall.wahyukadeocallprank.fakecallwahyukadeo.tikaollafakecallprank.dinilidafakecall",
-      "interval":6
+      "interval":10
       }
    ],
 
