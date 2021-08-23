@@ -8,12 +8,12 @@
       "admob_inter_reward":"",
       "startappid": "206628578",
       "select_ads": "ADMOB",
-      "select_backup_ads":"STARTAPP",
+      "select_backup_ads":"",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner_native": "YOUR_PLACEMENT_ID",
       "fan_native": "YOUR_PLACEMENT_ID",
       "packagename": "fake.video.call.ikatan.cinta.amanda.manopo.arya.saloka.andi.aldebaran",
-      "interval":2
+      "interval":10
       }
    ],
 
