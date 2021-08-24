@@ -3,16 +3,16 @@
       {
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
-      "admob_inter": "ca-app-pub-9676953921795368/2569954609",
-      "admob_native": "ca-app-pub-9676953921795368/8943791261",
-      "startappid": "206988147",
+      "admob_inter": "",
+      "admob_native": "",
+      "startappid": "",
       "select_ads": "ADMOB",
       "select_backup_ads":"STARTAPP",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner_native": "YOUR_PLACEMENT_ID",
       "fan_native": "YOUR_PLACEMENT_ID",
       "packagename": "fake.wavideo.call.panggilan.video.dengan.tante.sexy.hot",
-      "interval":2
+      "interval":20
       }
    ],
 
